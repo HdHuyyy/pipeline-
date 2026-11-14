@@ -10,3 +10,4 @@ Sửa lỗi JUnit 5
   
 Sửa lỗi GitHub Actions
 - Thêm bước actions/checkout@v4.
+- ![img_2.png](img_2.png)
